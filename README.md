@@ -1,6 +1,6 @@
-# Notre philosophie
+# Bienvenue chez Journalistes Solidaires
 
- JS est une association de fait qui s’est donné pour objet les missions suivantes:
+Journalistes Solidaires (JS) est une association de fait qui s’est donné pour objet les missions suivantes:
  
 
 - **Débunker** les *fake news* **et diffuser** de l’information pour lutter contre la désinformation 
@@ -94,3 +94,16 @@ Voici très globalement les différents rôles que vous trouverez :
 
 - Et un⸱e responsable de la production en charge de la production des formats audio et vidéo de la rédaction. 
 
+
+# La suite 
+
+Si vous souhaitez rejoindre l'aventure JS en tant que : 
+
+- journaliste fact cheker, rendez-vous dans le fichier **1. Journalistes.md**
+- correcteur, validateur, secrétaire de rédaction, rendez-vous dans le fichier **2. SR et correction.md** 
+- coordinateur,
+- mentor, rendez-vous dans le fichier **4. Mentors.md**
+
+Si vous souhaitez découvrir les outils avec lesquels nous travaillons quotidiennenemnt, rendez-vous dans dans le fichier **5. Les outils JS.md**
+
+Si vous avez d'autres questions, rendez-vous dans le fichier **6. Questions.md** 
