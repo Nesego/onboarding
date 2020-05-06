@@ -99,7 +99,7 @@ Voici très globalement les différents rôles que vous trouverez :
 
 Si vous souhaitez rejoindre l'aventure JS en tant que : 
 
-- [**1. Journaliste**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/1.%20Journalistes.md) fact checker 
+- [**1. Journaliste fact checker**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/1.%20Journalistes.md) 
 - [**2. SR et correction**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/2.%20SR%20et%20correction.md)
 - [**3. Coordinateur**](https://perdu.com)
 - [**4. Mentor**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/4.%20Mentors.md)
