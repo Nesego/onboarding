@@ -1,0 +1,100 @@
+# La production des enquêtes
+## Le Back-office : AirTable
+![Une fiche AirTable dans la table “Factchecks Internes”](https://paper-attachments.dropbox.com/s_DDCF8915682EB26F0FD0373239192C13D8C71357A73C2231753DD98EFDF26570_1587379288168_Capture+decran+2020-04-20+a+12.41.14.png)
+
+    La quasi totalité des processus de production d’une enquête et d’un article passe par **AirTable**.
+    
+    C’est un logiciel qui s’efforce de rendre des bases de données un peu plus sexy. Le service est composé de **tables** qui contiennent des **enregistrements**. Nous appelons ces enregistrement des “**fiches**”. À l’intérieur de ces fiches se trouvent des **champs** qui vont contenir vos informations : liens, listes de tâches, texte de votre article, illustrations, dates... La colonne de droite d’une fiche vous montre l’**historique d’activité** sur la fiche pour vous rendre compte des changements. Toute personne membre de l’équipe peut **poster des commentaires** dans cette colonne. 
+
+
+![Aperçu de quelques vues disponibles sur la table “Factchecks Internes”](https://paper-attachments.dropbox.com/s_DDCF8915682EB26F0FD0373239192C13D8C71357A73C2231753DD98EFDF26570_1587378159853_Capture+decran+2020-04-20+a+12.22.30.png)
+
+![Une vue “Kanban” pour le workflow des “Signalements Internautes”](https://paper-attachments.dropbox.com/s_DDCF8915682EB26F0FD0373239192C13D8C71357A73C2231753DD98EFDF26570_1587377932004_Capture+decran+2020-04-20+a+12.18.39.png)
+
+    Il existe plusieurs **mode****s** **de vue** pour chaque table, qui peuvent contenir plus ou moins de champs affichés, en fonction de l’utilité de la vue. Ainsi, une même table peut être vue en mode tableau, en mode calendrier ou encore en mode Kanban (comme sur Trello) selon vos préférences et/ou ce que vous souhaitez faire au moment où vous la consultez. Certaines n’affichent que les fiches à un stade précis de production, d’autres la totalité des fiches de la table, etc.
+
+
+    Airtable est l’outil de concentration et de centralisation de nos informations aussi bien des contacts que nous établissons et des enquêtes que nous menons, ou des formats que nous produisons. C’est également **la source de tout ce qui est affiché sur notre site internet**. Il est donc très important de bien prendre conscience dès maintenant de l’importance de cet outil. Il est vraiment au cœur de nos processus. Vous entendrez d’ailleurs souvent l’équipe plaisanter à base de “tu as rempli tes fiches ?” Une enquête JS ne peut se mener efficacement si elle ne trouve pas ses pivots, ses repères et ses métadonnées dans Airtable
+
+
+**Installation**
+
+
+    Il existe une [version web](https://airtable.com/downloads)[, une application desktop, et](https://airtable.com/downloads) [une application](https://airtable.com/downloads) [mobile](https://airtable.com/downloads) Airtable. Étant donnée la masse d’informations dans notre base de données, l’application mobile n’est pas optimisée.  Elle permet une consultation de survol, mais nous vous conseillons une consultation via son interface web ou desktop.
+
+
+    Il existe également une extension pour Chrome : [Airtable Web Clipper](https://chrome.google.com/webstore/detail/airtable-web-clipper/fehcbmngdgagfalpnfphdhojfdcoblgc), qui permet de créer très rapidement une fiche à partir d’une page de web. Pour un gain de temps garanti, [tutoriel en deux parties ici](https://www.youtube.com/watch?v=NkZCQic3Al4&feature=youtu.be) ⬇️ 
+
+
+https://www.youtube.com/watch?v=NkZCQic3Al4&
+
+
+[https://youtu.be/NkZCQic3Al4](https://youtu.be/NkZCQic3Al4)
+
+
+## La communication des équipes de vérification : Telegram
+![Exemple d’un groupe de travail Telegram](https://paper-attachments.dropbox.com/s_DDCF8915682EB26F0FD0373239192C13D8C71357A73C2231753DD98EFDF26570_1587378344343_Capture+decran+2020-04-20+a+12.25.33.png)
+
+    C’est une application de messagerie chiffrée instantanée que vous pouvez installer sur vos téléphones et vos ordinateurs. C’est sur cette application que se passe votre travail journalistique au sein d’un groupe de travail.
+    
+    Chaque groupe de travail crée une fiche Factcheck dans Airtable et un canal de discussion spécifique dans Telegram. Outre les conversations entre journalistes autour du sujet, les groupes permettent aussi d’impliquer les mentors plus simplement. Il est possible de s’échanger des fichiers de travail par Telegram. Ceci ne dispense pas l’équipe, pour autant, de continuer à compiler ces données dans les fiches Airtable de l’enquête.
+
+**Installation**
+
+
+    Un compte Telegram a besoin pour fonctionner d’un **numéro de téléphone**. Vous pouvez donc commencer par l’installation de l’appli mobile ([Android](https://play.google.com/store/apps/details?id=org.telegram.messenger), [iPhone](https://apps.apple.com/app/telegram-messenger/id686449807), [Windows Phone](https://www.microsoft.com/fr-fr/p/telegram-messenger/9wzdncrdzhs0?rtc=1)), puis dans un second temps installer la version desktop ([Mac](https://telegram.org/dl/desktop/mac), [PC](https://telegram.org/dl/desktop/win), [Linux](https://telegram.org/dl/desktop/linux)) pour vous simplifier les échanges par clavier plutôt que du bout du pouce !
+
+
+# S’organiser et communiquer entre nous
+## Le siège de JS : Discord
+![Liste (non-exhaustive) des salons de notre Discord](https://paper-attachments.dropbox.com/s_DDCF8915682EB26F0FD0373239192C13D8C71357A73C2231753DD98EFDF26570_1587379006257_Capture+decran+2020-04-20+a+12.36.33.png)
+
+    Inventé à la base pour les gamers, Discord combine les avantages des forums thématiques, des messageries ludiques, et d’outils pensés pour l’échange vocal entre membres d’un même serveur.
+    
+    Discord, c’est un peu notre **Open space virtuel**, avec ses zones de travail, ses pôles et sa machine à café. Imaginez vous qu’il s’agit du siège d’un média dans lequel vous allez trouver différentes pièces que vous retrouveriez dans un bâtiment de presse. Vous avez accès à différent **salons** ( pièces ) dans lesquels vous trouverez des discussions autour du thème de la pièce. Par exemple vous pouvez déjà voir les salons accueil et présentations qui sont nos salons publics. À la fin de cette introduction vous aurez accès à l’ensemble des autres pièces de la maison, n’hésitez pas à passer faire coucou dans **#****☕le-fakenews-cafe** où il y a toujours quelqu’un pour répondre à toutes vos questions, ou juste pour bavarder !
+
+
+    C’est aussi le lieu où se tiennent, par audio, les conférences de rédaction deux fois par semaine (les mardis à 9h30 et les jeudis après-midi à 17h30). Il y a un salon vocal dédié intitulé **#📰la-conf-de-redac** et chacun⸱e peut se signaler disponible pour un poste en particulier lorsque les nouveaux sujets sont abordés. [Ce tutoriel](https://www.youtube.com/watch?v=svMD2RsRX-0) explique comment 🔽 
+
+
+https://www.youtube.com/watch?v=svMD2RsRX-0&
+
+
+[https://youtu.be/svMD2RsRX-0](https://youtu.be/svMD2RsRX-0)
+
+
+![](https://paper-attachments.dropbox.com/s_DDCF8915682EB26F0FD0373239192C13D8C71357A73C2231753DD98EFDF26570_1587393948607_Capture+decran+2020-04-20+a+16.44.53.png)
+
+    Discord est le lieu principal d’entraide et d’interaction, et il est important de comprendre à cette fin à qui s’adresser et comment. **Les mentions** sont l’outil principal qui permet aux communications qui ont besoin de relier les bon⸱ne⸱s acteur⸱ice⸱s entre eux de se faire correctement. 
+    Vous pouvez mentionner : L’ensemble des membres d’un rôle ou une personne nominativement.
+
+
+    Voici une liste des rôles que vous pouvez mentionner en ajoutant un @ devant :
+
+
+    
+    
+
+**Installation**
+
+
+    Si vous êtes ici c’est que vous avez déjà probablement rejoint le serveur via l’application web. Toutefois il est **fortement recommandé** d’installer la version desktop ([Mac](https://discordapp.com/api/download?platform=osx), [PC](https://discordapp.com/api/download?platform=win)) de Discord pour éviter les nombreux bugs de l’audio et du partage d’écran sur l’appli web.
+
+
+## Le *review* des productions vidéos : Wipster
+![Une “page de review” sur Wipster](https://paper-attachments.dropbox.com/s_DDCF8915682EB26F0FD0373239192C13D8C71357A73C2231753DD98EFDF26570_1587384641586_Capture+decran+2020-04-20+a+14.09.52.png)
+
+    Wipster est une **plateforme de validation vidéo** qui constitue l’outil d’interaction principal de l’équipe multimédia avec le reste des journalistes, pour les sujets traités en vidéo. Il permet de **commenter la vidéo** à des instants précis et de considérer ces commentaires comme des tâches à faire et **s’intègre avec les outils de montage** (Premiere Pro et After Effects) pour diminuer les intermédiaires des JM (journalistes multimédias)
+
+**Installation**
+
+
+    Si vous n’êtes pas Journaliste Multimédia, vous n’avez rien à installer. Pour chaque sujet, le⸱la JM assigné⸱e vous enverra un “lien de revue”.
+![Vue du panneau Wipster dans Premiere Pro](https://paper-attachments.dropbox.com/s_DDCF8915682EB26F0FD0373239192C13D8C71357A73C2231753DD98EFDF26570_1587385175097_Capture+decran+2020-04-20+a+14.18.59.png)
+
+
+
+    Si vous êtes membre de la team de production vidéo, vous avez besoin d’un compte sur [Wipster.io](https://app.wipster.io) (demandez à @La Technique sur Discord) et du [plugin pour Premiere Pro](https://exchange.adobe.com/creativecloud.details.14841.html) qui permet d’uploader directement depuis sa timeline, de transformer les commentaires en Marques, et d’y répondre sans passer par le navigateur.
+
+
+
