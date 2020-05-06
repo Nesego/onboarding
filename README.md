@@ -33,7 +33,7 @@ L’ensemble des fonds et matériels reçus, utilisés ou dépensés par JS sont
 
 
 ## Nous nous engageons sur la transparence de nos méthodes
-En tant que journaliste vous vous devez d’être transparent⸱e⸱s sur la raison de votre enquête et les méthodes que vous y appliquez. Vous détaillerez les pistes de réflexion, de recherches, les interviews effectuées, les publications produites, les outils et sources que vous utiliserez lors de vos *fact* ***check**s* ainsi que la raison pour laquelle vous les avez utilisés. 
+En tant que journaliste vous vous devez d’être transparent⸱e⸱s sur la raison de votre enquête et les méthodes que vous y appliquez. Vous détaillerez les pistes de réflexion, de recherches, les interviews effectuées, les publications produites, les outils et sources que vous utiliserez lors de vos *facts checks* ainsi que la raison pour laquelle vous les avez utilisés. 
 
 
 ## Nous nous engageons à être ouvert⸱e⸱s aussi sur nos erreurs
@@ -75,7 +75,7 @@ Chaque groupe de travail ouvre une fiche dans Airtable et un canal de discussion
 
 Si vous êtes ici c’est que normalement vous avez plus ou moins compris le principe mais sachez qu’il existe des [application](https://discordapp.com/)[s](https://discordapp.com/) [téléphone et pour vos ordinateurs](https://discordapp.com/). N’hésitez pas à installer ces applications, elles fonctionnent généralement mieux que la version site internet. Inventé à la base pour les *gamers*, Discord combine les avantages des forums thématiques, des messageries ludiques, et d’outils pensée pour l’échange vocal entre membres d’un même serveur.
 
-Discord est un réseau de communication en direct, et s’agissant du Discord des Journalistes Solidaires, imaginez vous qu’il s’agit d’un grand immeuble dans lequel vous allez trouver différentes pièces que vous retrouveriez dans un bâtiment de presse. Vous avez accès à différent **salons** (pièces) dans lesquels vous trouverez des discussions autour du thème de la pièce. Par exemple vous pouvez déjà voir les salons #accueil et #présentations qui sont nos salons publics. À la fin de cette introduction vous aurez accès à l’ensemble des autres pièces de la maison, n’hésitez pas à passer faire coucou dans le #fakenewscafé ou il y a toujours quelqu’un pour répondre à toutes vos questions ou juste bavarder ! Discord, c’est un peu notre **Open* *S**pace** virtuel, avec ses zones de travail, ses pôles et sa machine à café.
+Discord est un réseau de communication en direct, et s’agissant du Discord des Journalistes Solidaires, imaginez vous qu’il s’agit d’un grand immeuble dans lequel vous allez trouver différentes pièces que vous retrouveriez dans un bâtiment de presse. Vous avez accès à différent **salons** (pièces) dans lesquels vous trouverez des discussions autour du thème de la pièce. Par exemple vous pouvez déjà voir les salons #accueil et #présentations qui sont nos salons publics. À la fin de cette introduction vous aurez accès à l’ensemble des autres pièces de la maison, n’hésitez pas à passer faire coucou dans le #fakenewscafé ou il y a toujours quelqu’un pour répondre à toutes vos questions ou juste bavarder ! Discord, c’est un peu notre **Open Space** virtuel, avec ses zones de travail, ses pôles et sa machine à café.
 
 
 
