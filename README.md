@@ -99,11 +99,11 @@ Voici très globalement les différents rôles que vous trouverez :
 
 Si vous souhaitez rejoindre l'aventure JS en tant que : 
 
-- journaliste fact cheker, rendez-vous dans le fichier [**1. Journalistes.md**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/1.%20Journalistes.md)
-- correcteur, validateur, secrétaire de rédaction, rendez-vous dans le fichier [**2. SR et correction.md**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/2.%20SR%20et%20correction.md)
-- coordinateur,
-- mentor, rendez-vous dans le fichier [**4. Mentors.md**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/4.%20Mentors.md)
+- [**1. Journalistes**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/1.%20Journalistes.md) fact checker 
+- [**2. SR et correction**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/2.%20SR%20et%20correction.md)
+- 3. coordinateur,
+- [**4. Mentors**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/4.%20Mentors.md)
 
-Si vous souhaitez découvrir les outils avec lesquels nous travaillons quotidiennenemnt, rendez-vous dans dans le fichier [**5. Les outils JS.md**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/5.%20Les%20outils%20JS.md)
+Si vous souhaitez découvrir les outils avec lesquels nous travaillons quotidiennenemnt, rendez-vous dans dans le fichier [**Les outils JS**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/5.%20Les%20outils%20JS.md)
 
-Si vous avez d'autres questions, rendez-vous dans le fichier [**6. Questions.md**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/6.%20Questions.md) 
+Si vous avez d'autres questions, rendez-vous dans le fichier [**la foir aux questions**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/6.%20Questions.md) 
