@@ -106,4 +106,4 @@ Si vous souhaitez rejoindre l'aventure JS en tant que :
 
 Si vous souhaitez découvrir les outils avec lesquels nous travaillons quotidiennenemnt, rendez-vous dans dans le fichier [**Les outils JS**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/5.%20Les%20outils%20JS.md)
 
-Si vous avez d'autres questions, rendez-vous dans le fichier [**la foir aux questions**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/6.%20Questions.md) 
+Si vous avez d'autres questions, rendez-vous dans le fichier [**la foire aux questions**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/6.%20Questions.md) 
