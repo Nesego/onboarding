@@ -1,0 +1,260 @@
+Bonjour, et tout d’abord merci de prendre le temps d’échanger un peu avec nous. 
+Nous savons que vous avez un emploi du temps chargé et des disponibilités variables mais une envie d’aider [Journalistes Solidaires](http://journalistessolidaires.com) (JS). 
+
+# Les bonnes pratiques du *fact checking* 
+
+N’ayez pas peur, c’est avant tout votre flegme et votre bon sens qui fera de vous un⸱e bon⸱ne *fact checker*. Mais nous avons compilé ici sommairement les bonnes pratiques telles que décrites par l’[IFCN](https://www.poynter.org/ifcn/) et partagées par les grandes rédactions !
+
+Les grands principes sont :
+
+- Gardez une trace de chaque étape de votre travail
+- Remontez à la source
+- Confrontez les informations 
+- Sollicitez les bonnes sources et variez d’interlocuteur⸱ice⸱s
+- Sortez d’internet
+
+Nous ajoutons à ces règles essentielles quelques bonnes pratiques propre à notre organisation telles que :  
+
+
+- Enregistrez vos interviews : que ce soit pour une retranscription audio, vidéo, ou en cas de confrontation aux mensonges, une preuve vidéo et sonore est toujours préférable. De même, n’interprétez pas les paroles de quelqu’un : si vous le citez, il faut trouver l’équilibre entre l’oral et l’écrit. Enlevez les fioritures orales (euuh, les structures lourdes, etc …) mais restez le plus proches possible de ce qui vous a été réellement dit.
+- Vérifiez vos chiffres
+- Renseignez-vous efficacement sur vos interlocuteurs avant de les interroger
+
+Vous trouverez toutes les informations concernant nos méthodes de *fact checking* dans notre **guide de méthodologie.**  
+
+
+# Les outils conseillés et mis à disposition 
+
+Nous vous avons préparé deux listes d’outils mis à votre disposition :  
+
+**Les outils** **JS**  ****est la liste de nos outils de base, que nous utilisons au quotidien pour nous coordonner, pour travailler ou encore discuter : Discord, Telegram et AirTable
+
+**L****es outils du journaliste** est une liste d’applications vivement conseillées pour travailler au mieux à votre enquête. Outil d’analyse d’image, base de données d’expert⸱e⸱s vérifié⸱e⸱s, outil de communication ou encore d’enregistrement de vos interviews. 
+
+N’hésitez pas à prendre un peu de temps avant de vraiment vous lancer pour prendre en main ses outils ! 
+
+
+# Comment une enquête JS fonctionne ?
+
+
+## Partons d’un sujet type. Imaginons qu’une information circule sur Whatsapp indiquant que la reine d’Angleterre est enceinte. 
+
+Il existe 2 moyens par lesquels nous nous saisissons de ce sujet : 
+
+
+- soit par une question qui nous a été envoyée par quelqu’un via le site ou les réseaux sociaux de JS et nous pointant vers la publication douteuse
+
+- soit par l’un⸱e d’entre nous qui propose cette publication douteuse par sa veille personnelle
+
+Dans les deux cas, la soumission de l’information termine dans notre base de données **Airtable**.
+L’information est représentée sous forme d’**une fiche dans la table****.** C’est à partir de ce signalement formel que pourront démarrer les enquêtes. Attention : les fiches de travail Airtable sont publiques : veillez à être précis dans les titres de sujets (le détail des champs publics ou privés est expliqué plus bas)
+ 
+À partir de cet instant l’information que la reine d’Angleterre est enceinte est entrée dans notre base de données et sera traitée. 
+
+L’information que nous recevons est généralement sommaire et demande souvent des éclaircissements (qui n’existent pas toujours). 
+
+
+## La sélection des sujets 
+
+Une fois le signalement entré en base il est traité par le⸱la rédacteur⸱ice en chef, son adjoint⸱e et/ou par un⸱e mentor ou coordinateur⸱ice qui va valider en première intention le sujet comme « méritant » une enquête ou non. Ce choix est basé sur un principe simple : 
+
+- Est ce que le sujet a déjà été traité par une autre rédaction ? 
+- Est ce que le sujet a déjà été traité par notre rédaction ?
+- Est-ce qu’il s’agit d’une information à *fact checker* ? 
+
+Le degré « d’absurdité » d’un sujet n’est pas un facteur de décision. Nous répondons autant que faire se peut à toutes les demandes de vérification de faits qui nous sont envoyées et auxquelles nous ou d’autres rédactions de *fact checking* n’avons pas encore répondu. 
+
+Dans le premier cas, nous utilisons nos réseaux sociaux pour amplifier l’information déjà debunkée par une autre rédaction et lions vers leurs publications originales. Nous effectuons un travail **d’amplification** **basé sur notre veille transversale des différents médias dédiés au** ***fact check***
+**
+Dans le second cas le sujet sera proposé à l’ensemble de l’équipe de rédaction en conférence de rédaction. 
+
+
+## La conférence de rédaction
+
+Une fois le sujet validé par la rédaction en chef, il est proposé aux équipes en conférence de rédaction. Une équipe constituée (voir plus bas) et déjà affectée à une enquête est typiquement constituée de :
+
+- Deux journalistes enquêteur⸱ice⸱s
+- Un⸱e coordinateur⸱ice
+- Un⸱e mentor
+
+Les conférences de rédaction ont lieu 2 fois par semaine : **les** **mardis** **09h30** et les **jeudis** **à 17h30**
+
+Le format d’une conférence de rédaction est le suivant :  
+
+
+- Temps 1 : revue des sujets en cours 
+
+
+Chaque équipe est appelé à tour de rôle pour faire un point sur son sujet. C’est le moment ou il vous est demandé de partager avec le groupe vos avancements, vos problèmes, vos questionnements spécifiques.
+I**l est primordial qu’un**⸱**e** **membre de chaque** **équipe** **soit présent**⸱**e** **à chaque conférence de rédaction tant que le sujet n’est pas clos**. 
+
+**5 minutes sont consacrées** à chaque sujet sous forme d’un exposé rapide et de questions / réponses entre le⸱la représentant⸱e de votre groupe et le reste de la rédaction. 
+
+
+Il est important de respecter ce temps de parole afin que tout le monde puisse avoir la possibilité de s’exprimer dans la conférence de rédaction qui peut malgré tout être assez longue (+/- 1h30) étant donné le nombre de sujets à traiter.  Le principe est celui d’une revue agile des sujets en cours. 
+
+
+Même si votre sujet n’a pas avancé, si vous êtes bloqué, il est important que vous vous exprimiez à cet instant à propos de votre enquête ; elles trouvent parfois leur second souffle en conférence de rédaction, par la confrontation à l'équipe entière. 
+
+
+- Temps 2 : proposition de nouveaux sujets 
+
+
+Le⸱la rédacteur⸱ice en chef expose les sujets qu’il⸱elle a sélectionnés au préalable, lance une discussion autour de chacun de ces sujets et compose une équipe de journalistes et d’un⸱e coordinateur⸱ice pour la vérification des faits de chacune des propositions.
+
+**Cette discussion dure un maximum de 10** ******min par sujet.**  L’assignation à une enquête se fait de manière bénévole et par affinité avec le sujet. Vous ne serez jamais obligé⸱e⸱s de participer à une enquête. Nous vous demandons en revanche de ne pas hésiter à poser des questions, à intervenir et participer lors du débat autour du sujet, même si vous ne pensez pas pouvoir joindre l’équipe d’enquêteur⸱ice⸱s. **Toute question, avis, conseil est** **entendu****.** 
+
+
+Chaque groupe doit être composé de la manière suivante : 
+
+**2 journalistes** qui vont mener l’enquête, réaliser les interviews, suivre les pistes et tirer des conclusions. Si un⸱e des journalistes a un profil junior nous essayons de lui adjoindre un profil plus expérimenté. L’idée étant qu’un binôme va par essence être amené à échanger et nourrir l’enquête en cours.
+
+
+**1 coordinateur**⸱**ice****,** qui va guider les journalistes, les encadrer dans le travail, les relancer quand les délais annoncés ne sont pas respectés, ou que l’enquête patine pour une raison quelle qu’elle soit. **Son rôle n’est pas journalistique**, il⸱elle est là pour serrer les angles, huiler les rouages, remettre une pièce dans la machine quand nécessaire, challenger l’angle pour l’affiner,  garder à vue la « *big picture* » de ce projet rédactionnel et garder le recul nécessaire par rapport aux investigations menées, pour servir de lecteur béta, ou de point d’appui. Il⸱elle n’est pas là pour vous contrôler, mais est votre partenaire, votre assurance. Il⸱elle n’a pas le nez dans le guidon de l’enquête et est dans la voiture d’assistance aux coureur⸱se⸱s. 
+
+
+**1 mentor (optionnel),** si un⸱e de nos contacts peut vous aider dans votre enquête ou dans sa réalisation (ex: spécialiste des sujets high tech, ou expert⸱e son, *fact checker* aguerri⸱e…) Les mentors sont des journalistes professionnel⸱le⸱s reconnu⸱e⸱s ou des expert⸱e⸱s dans leur domaine. Ils⸱elles peuvent vous aider à débloquer des situations mais sont également là pour vous conseiller si le besoin s’en fait sentir sur les aspects journalistiques de votre enquête. 
+
+
+Ni le⸱la coordinateur⸱ice, ni le⸱la mentor ne sont là pour se substituer au travail des journalistes. Il⸱elle⸱s sont là pour vous aider, pour vous apporter des pistes ou des solutions spécifiques mais c’est aux journalistes de réaliser l’enquête et de produire les contenus. 
+
+
+Une fois le groupe composé et la fiche d’enquête créée dans la table « **Factchecks Internes »** votre coordinateur⸱ice crée un groupe Télégram dans lequel vous pourrez débuter votre enquête. 
+
+
+## Le temps de l’enquête et de la fiche : la reine d’Angleterre est-elle enceinte ?  
+
+Il faut d’abord re-préciser que nous sommes une rédaction de *fact checking*. 
+Nous produisons des réponses à des questions précises. Si la question qui vous a été posée est sur la grossesse de la reine d’Angleterre nous vous demandons d’essayer de répondre précisément à cette question. D’abord et avant tout : est-elle enceinte oui ou non (ou est-ce difficile ou trop tôt pour le dire) ? Qui est le père, où l’enfant a-t-il été conçu, est-ce une fille ou un garçon ne sont pas des éléments appartenant à la question à laquelle vous devez répondre. C’est souvent tentant, notamment par le truchement des informations récoltées au cours de l’enquête. C’est un biais que nous tentons d’éviter. 
+
+Attention également à la fiabilité et la pluralité des sources. Privilégiez les contacts et ressources qui communiquent officiellement ; si c’est un cheval de l’écurie de Birmingham qui vous assure que la reine d’Angleterre est enceinte, peut-être devriez vous confronter son affirmation avec une source à Buckingham. 
+
+Il est donc très important avant tout travail d’enquête de bien faire le point avec votre coordinateur⸱ice sur la question à laquelle vous allez répondre. Il est également bon de garder en tête pendant toute vos investigations nos valeurs qui doivent être au coeur de celle ci. **Transparence, équité, neutralité, honnêteté.** ****Le scoop est optionnel.
+
+Votre enquête doit être documentée en tous points. Il est important pour la transparence de notre rédaction que vous complétiez et partagiez toutes les informations que vous recueillez dans le cadre de cette dernière. 
+
+Vous trouverez plus d’informations sur la méthodologie d’enquête à suivre ici : [+Méthodologie de fact checking](https://paper.dropbox.com/doc/Methodologie-de-fact-checking-9fRirpp89ZxldOxlWCPS0) 
+
+
+- Aussi votre fiche d’enquête est composée des champs suivants :  
+
+
+*Les champs suivants sont importants à remplir pour les journalistes*
+**[Attention à l’orthographe, nous sommes une** ***Open Newsroom*****, les champs publics sont en ligne sur le site]**
+
+
+- [**public**] **Titre**. Votre titre décrit brièvement le sujet de votre enquête.
+    
+- [**privé**] **Tags interne****s****.** Ce champ vous permet d’ajouter des mots clefs qui nous servent à retrouver des *fact check* déjà réalisés sur certains sujets. Libre à vous d’ajouter des tags qui vous semblent pertinents. 
+
+- [**privé**] **Contenu sensible**. Ce champ vous permet de ne pas afficher sur notre site l’enquête. Ce champ est utilisé si une enquête demande de la discrétion. Son usage doit être l’exception et non la règle.
+    
+- [**privé**] **Etat d’avancement du sujet****.** Ce champ vous permet d’acter l’avancée de votre sujet. 
+    
+- [**privé**] **Groupe Télégram****.** Lien vers le groupe de discussion autour de votre sujet. Tou⸱te⸱s les membres de la rédac peuvent y accéder. 
+    
+- [**privé**] **Signalements correspondants****.** Il s’agit là du ou des signalements à l’origine de votre sujet.
+
+- [**public**] **En bref**. C’est là que vous aller décrire brièvement le sujet de votre enquête. C’est le chapô de votre fiche d’enquête sur le site internet. 
+
+- [**public**] **Actions entreprises par les journalistes.** C’est à cet endroit que vous devez indiquer tout ce que vous entreprenez dans les différentes étapes de vos recherches. C’est à travers ce champ que vous expliquez aux internautes et citoyens qui suivent votre enquête les étapes que vous suivez à la recherche de la vérité. Ces éléments leur sont accessibles dès que l’enquête est passée en conférence de rédaction.
+*Exemple : interview de Marinette Du Palais; analyse des chiffres de Jean Michel Statistique*
+
+- [**privé**] **Todo list.** C’est là que vous allez enregistrer toutes les actions que vous entreprenez dans votre recherche des faits. Il est très important de bien tenir à jour cette partie car c’est cette partie qui permet au rédacteur en chef, aux coordinateurs et aux mentors de jeter un oeil sur votre enquête afin de voir si il est possible de vous aider. Ou de permettre à une autre équipe de prendre le relais en cas de démission, maladie…. 
+
+- [**public**] **Pistes et conclusions.** Ce champ doit contenir les différentes pistes que vous suivez lors de vos investigations, ainsi que les résultats de vos actions entreprises, notées dans le champ précédent. **C’est également à cet endroit que vous rédigerez vos conclusions sommaires et ce même si le sujet est abandonné.** 
+*Exemple : dans son interview, Marinette Du Palais nous explique que patati patata. Cependant, l’analyse des chiffres de Jean-Michel Statistique nous montre que blablabli*
+
+- [**privé**] **Médias.** Lors de vos investigations vous créerez des médias sous forme de screenshots, de photos, de fichiers audio ou vidéo. Tout ces médias doivent être déposés à cet endroit. Chaque média possède sa propre fiche Airtable où chaque champ doit également être rempli tant que possible afin de faciliter le croisement d’informations intégrées dans le moteur de Airtable. 
+
+
+- [**privé**] **Créer ou lier à une source suspecte**. C’est à cet endroit que vous aller sauvegarder tout les sources suspectes qui parlent du sujet de votre investigation. Ce champ est et restera privé et ne sera consultable que par notre équipe afin de ne pas diffuser à notre tour de fausses rumeurs. 
+
+
+- [**public**] **Créer ou lier à une source sûre.** C’est à l’exact inverse du champ précédent. C’est à cet endroit que vous indiquerez les sources d’informations sûres que vous avez utilisées pendant vos investigations ainsi que pour arriver à vos conclusions. 
+
+
+- [**privé**] **Contacts**. C’est à cet endroit que vous indiquerez les informations de tout les contacts que vous utilisez pendant votre investigation. Ces informations sont et resterons privées **il est cependant absolument néc****e****ssaire que nous puissions joindre de la même façon que vous vos contacts**. 
+
+
+- [**public**] **É****tat de vérification des fait****s****.** Ce champ nous permet et permet aux internautes de suivre l’avancement de l’enquête. 
+
+
+*Les champs suivants sont important à remplir p**a**r les coordinateur*⸱*ice*⸱*s* 
+
+
+- [**public**] **Coordinateur**  
+- [**public**] **É****quipe assignée** 
+- [**public**] **Mentor** 
+- [**public**] **Thème.** Ce champ nous sert de catégorisation de l’enquête sur le site internet. 
+
+- [**privé**] **Groupe Télégram** 
+- [**privé**] **Etat d’avancement du sujet**. 
+
+
+
+*Les champs suivants sont remplis automatiquement* 
+
+- [**privé**] **Signalement internaute correspondant**. C’est dans ce champ que vous aller retrouver la fiche créée lors de l’enregistrement de l’information dans la table « Signalement internautes ». Vous pouvez directement la consulter depuis votre fiche de Fact check. 
+
+
+- [**privé**] **Médias du signalement.** Si un média à été joint lors du signalement vous aurez accès à ce dernier à cet endroit. 
+
+Il est très important que vous compreniez dès à présent l’importance des fiches d’enquêtes : « t’as rempli ta fiche ? ». Elles sont non seulement indispensables à la rédaction dans son ensemble pour suivre votre travail, elles sont également la source du travail d’accompagnement de nos coordinateur⸱ice⸱s et de supervision de nos mentors. Elles sont  le reflet de votre travail en cours, sur notre site internet, et le partage de ce travail avec les citoyens. Comprenez-la comme une interface entre vous et le monde extérieur qui veut vous aider mais qui pour cela a besoin d’informations. **Plus vous partagez, plus vous recevez.** 
+
+Pendant votre investigation vous serez aussi amené⸱e⸱s à communiquer à travers un groupe Telegram. Il est important, si vous avez indiqué être disponible, d’assurer le suivi de votre travail ou de prévenir au plus tôt votre coordinateur⸱ice ou rédacteur⸱ice en chef afin que nous puissions toujours nous assurer que tout le monde soit encadré et travaille en tranquillité. Le groupe Telegram est renseigné sur votre fiche : ainsi, d’autres membres de JS peuvent s’y glisser pour vous transmettre un contact, suggérez des modifications ...
+
+Nous ne sommes pas chasseur⸱euse⸱s de scoops ! 
+
+**Le scoop et la vitesse de sortie d’une information n****e sont** **pas no****s** **priorité****s****.** Cependant nous essayons de respecter un délai d’une semaine à une semaine et demie entre l’arrivée d’une demande de vérification et sa parution, quelle que soit la forme. Le scoop découle parfois, d’une démarche de *fact checking* rondement menée.  
+
+Nous ne vous jugerons jamais si vous devez abandonner un sujet en cours, ce n’est pas du tout un problème. Nous avons en revanche un problème si vous quittez un sujet en cours sans en informer personne et à minima votre coordinateur⸱ice.
+
+L’intérêt de travailler tou⸱te⸱s ensemble vient aussi du fait de confronter les points de vue et de partager les ressources. Si un sujet semble bloqué, nous mettrons tout en œuvre pour aider à son déblocage et il ne faut pas craindre d’annoncer clairement que le sujet est bloqué. Il est toujours préférable de demander de l’aide plutôt que de s’entêter à réussir un sujet tout⸱e seul⸱e.
+
+
+## Vous en êtes sûrs, la reine est enceinte ! Le temps de la rédaction et de la publication
+    
+
+Une fois votre investigation terminée votre fiche de *fact check* doit être totalement remplie et, fiers du travail accompli, il ne vous reste qu’a publier vos conclusions ! 
+
+Pour créer un article, vous trouverez dans votre fiche un encart « Papiers originaux ou traduits » : c’est là que votre article dans sa version publiée et finale sera écrit. Cliquez sur « Créer ou lier un article », puis « Add a new record » : vous n’avez plus qu’à remplir les champs qui correspondront à la version finale de votre article : titre, chapô, texte … Sans oublier les rédacteur⸱ice⸱s et le statut « en cours de rédaction » lorsque vous êtes en train d’écrire. Chaque article doit être illustré. Pour écrire, vous pouvez vous référer à la Charte typographique de JS.
+
+Ici encore il existe plusieurs options qu’il appartiendra à votre groupe de déterminer à l’aide des responsables des différents département que vous souhaitez impliquer :  
+
+
+- Vous pouvez décider que votre *fact check* n’a plus grand interêt parce qu’il n’y a pas grand chose à en dire de plus, ou que vous n’arrivez pas à trouver une réponse satisfaisante à la question de départ.  Dans ce cas il vous suffit d’indiquer vos conclusions dans votre fiche de fact check, de passer l’état d'avancement du sujet à « **Abandonné** » et indiquer au⸱à la rédacteur⸱ice en chef que votre enquête est clôturée. 
+
+- Vous réalisez que votre fact-check a été traité entre temps par une autre rédaction et vous n’avez vraiment rien à ajouter de plus : il suffit de passer l’état d’avancement dans la fiche à « **Passé en publication externe** ****», de prévenir la rédaction en chef et d’envoyer un message dans le salon Discord #le-reposting avec votre sujet, l’article de la rédaction qui l’a débunké, pour demander à en faire un relais.
+
+
+- Vous pensez que votre enquête mérite une publication « article ». Vous pouvez dans ce cas vous mettre à la rédaction de votre papier. Pensez lors de la rédaction de ce dernier qu’il sera publié sur notre site internet. Il est donc vivement conseillé d’intégrer au sein de ce dernier des images, du son, de la vidéo ou encore des animations. Les articles vivants et bien illustrés ont plus de chance d'être lus et partagés que des articles ne contenant que du texte. 
+
+- Vous pensez que votre enquête mérite une vidéo pour l’appuyer car vous disposez d’images ou de sons que vous pensez être pertinents, à habiller ? Vous pouvez rentrer en contact avec le⸱la responsable de production qui vous assignera un⸱e producteur⸱ice. Celui⸱celle-ci travaillera avec vous à la production d’un script de module, qui mènera à la réalisation d’une vidéo de quelques minutes. Nos formats vidéos sont courts à la « Brut », le média en ligne (principe KISS : Keep it simple and sustainable. Pensez à prévenir la production un peu avant la fin de l’écriture de votre article, pour les délais de production).
+
+- Une fois que votre article est terminé et/ou le module vidéo achevé, vous devez réaliser la mise en page (à l’aide des balises Markdown) de base : gras, italique, liens, etc … Pour vous aiguiller, vous pouvez vous appuyer sur la charte ortho-typographique de JS. 
+
+- Passez ensuite son statut à « en attente de relecture » et mentionner, dans la case « relecture », toute l’équipe de SR. 
+
+- Votre papier subira ensuite une double relecture avant validation finale par le⸱la rédacteur⸱ice en chef et le⸱la coordinateur⸱ice. Le⸱la journaliste rédacteur⸱ice doit se tenir à la disposition du secrétariat de rédaction pendant cette phase afin de l’aider à appréhender votre article et ne pas le dégrader. Nous vous conseillons d’utiliser le channel #la-redac du Discord pour ces discussions. Dans cette phase, des SR peuvent également débarquer dans votre discussion Télégram pour s’assurer de la bonne compréhension de l’article et suggérer des modifications.
+
+- Il sera ensuite inséré dans le calendrier de publication et vous serez informé⸱e⸱s de sa publication par la rédaction. 
+
+- N’oubliez pas de remplir les fiches Facebook et Twitter de vos articles, pour ce faire, consultez la charte réseaux sociaux. 
+        
+
+Nous demandons à tou⸱te⸱s les membres de notre rédaction de relayer avec force chacune de nos publications car c’est comme cela que nous pouvons leur apporter plus de visibilité. Même si ce n’est pas votre publication, votre enquête, retweetez, partagez sur Facebook, LinkedIn ou même Instagram. C’est tou⸱te⸱s ensemble que nous diffusons l’information que nous produisons. 
+
+
+## Et ensuite ? 
+
+La fin d’une enquête n’est pas une fin en soi. JS vous laisse la possibilité, si vous avez découvert des éléments intéressants ou des pistes que vous souhaitez explorer, de commencer une enquête au long court afin de produire un autre format d’information. Nous reviendrons plus tard sur ces longs formats. 
+
+
+## Votre première investigation 
+
+Lors de votre première investigation : ne paniquez pas. Vous serez placé⸱e⸱s au minimum en duo avec un⸱e journaliste JS qui a déjà de l’expérience ainsi qu’avec un⸱e coordinateur⸱ice qui sera informé⸱e qu’il s’agit de votre première enquête. Il⸱elle sera particulièrement attentif à bien vous rappeler de remplir vos fiches et à faire des comptes-rendu de vos recherches. 
+
+Nous allons vous proposer quelques sujets à la fin de cette introduction, n’hésitez pas à vous servir, c’est la loi du⸱de la plus fort⸱e pour aujourd’hui, le⸱la premier⸱e qui crie « moi » a gagné !
+
+
