@@ -1,0 +1,57 @@
+# Questions fréquemment posées 
+
+
+## Si j’ai une question sur un des outils, à qui m’adresser ? 
+
+Tout comme #la-redac,  #la-technique dispose de son salon sur notre discord. Il vous suffit de taper sur la tête à coco avant d’entrer et de poser votre question. Généralement il y a toujours quelqu’un pour vous répondre dans les 5 à 10 minutes. En cours d’enquête votre coordinateur⸱ice se proposera de vous faciliter la tâche sur ces éléments mais notre équipe technique, elle, ne dort jamais.
+
+
+## Si j’ai besoin d’un outil pour travailler, qui me le procure ? 
+
+Cela dépend de l’outil dont vous avez besoin. JS utilise pas mal de solutions qui permettent d’effectuer des interview enregistrées, du *data mining* ou encore de l’analyse de contenu de réseaux sociaux ou de vérification de vidéos … Si vous ne trouvez pas ce que vous cherchez dans « [Les outils du journaliste](https://paper.dropbox.com/doc/vote-Les-outils-du-Journaliste--AzHon~Tzi5paRyNjt2ymmJ7wAQ-U8EzfQPLdtbl67wt8nCdc)  », n’hésitez pas à demander, on ne sait jamais ce que ces gens ont sous la main 🙂 
+
+
+## J’ai trouvé une *fake news* intéressante, comment faire pour la traiter ?
+
+Créez une fiche Airtable dans « Signalements interne », en remplissant les champs et avec le statut « Soumission Interne ». Elle passera à la prochaine conf de rédac.
+
+
+## Est ce que, si je suis journaliste, je ne ferai que de la vérification ou je peux aussi faire de la correction, de la coordination, de la vidéo et du community management ? 
+
+Du calme papillon de lumière, sous les projecteurs ! Bien que nous encouragions nos membres à acquérir de l’expérience au sein de l’organisation, le travail de chacun demande également de l’expertise. Aussi nous préférons vous accompagner dans 1 ou 2 postes très bien plutôt que partout pas très bien. Mais vous verrez rapidement quelles sont vos appétences. La plupart de nos spécialistes dédiés ont rapidement frayé leur chemin jusqu’au poste où ils s’épanouissent.
+
+
+## Est ce que vous gagnez des sous ? 
+
+Oui. D’après Jean-Jacques Fékeniouz, spécialiste de tout et de rien sur les réseaux sociaux, nous avons même reçu des millions de Facebook puis Bill Gates nous aurait rachetés. 
+Une équipe de deux journalistes, un coordinateur et leur red chef mènent actuellement l’enquête pour savoir si oui ou non quelqu’un est parti avec cet argent de poche.
+Vous l’aurez compris, nés dans l’urgence du Covid-19 et avec une dimension citoyenne, nous travaillons pour l’instant grâce à des partenariats avec des sociétés privées qui nous mettent à disposition certains de leurs outils, de menus dons ou de 2, 3 bouts de ficelles.  
+
+
+## Je vais gagner des sous ? 
+
+Oui, si vous faites partie de l’équipe qui *factchecke* les propos de M.  Fékeniouz, et si vous trouvez l’homme ou la femme qui a reçu les millions, ils sont tous pour vous. On est généreux⸱ses.
+Plus sérieusement nous n’avons pour l’instant pas encore de modèle économique pour garantir la pérennité de notre et de votre travail. Sachez pourtant qu’il s’agit d’un de nos objectifs principaux à moyen terme.
+
+Dans l’attente, quel stage vous permet-il de travailler avec la plupart des outils et problématiques que vous rencontrerez dans une rédaction ? Dans quelle rédaction démarreriez-vous immédiatement sur des enquêtes, ou avec une approche de média 360° en pouvant vous targuer du label de qualité du groupe ? À quel moment de votre carrière journalistique avez-vous l’occasion d’échanger des opinions, des réflexions, des pistes avec la plupart des rédactions de *fact checkeurs* de France ? Dans quelles expériences vous proposera-t-on d’être mentoré pour vos sujets autonomes par des spécialistes du journalisme ou des expert⸱e⸱s qui prodiguent des conseils utiles ?
+
+Bon Ok ça ressemble à un vieux discours de start-up… À la différence qu’ici, ceux⸱celles qui balancent ce discours ne gagnent pas plus d’argent que vous dans l’exercice.
+
+
+## Je ne me sens pas confiant⸱e, j’ai peur de faire des erreurs, c’est beaucoup de pression tout ça
+
+C’est normal, personne ne l’est sur ses premières enquêtes et le format que nous utilisons est presque unique. C’est pour cela qu’il est très important de ne pas rester seul⸱e dans votre coin. Rejoignez vraiment la communauté, personne ne vous laissera de côté. Nous avons tous fait des erreurs et ce sont ces erreurs qui ont façonné l’organisation que nous sommes. Nous ne jugeons pas les gens sur leurs erreurs mais sur leur capacité à apprendre de celles ci est à être meilleur⸱e⸱s. 
+Nous nous astreignons toujours, néanmoins, à la plus grande transparence en matière de rapports de travail. Si vous vous êtes engagé⸱e⸱s sur une enquête ou sur une tâche relative à cette enquête et n’y donnez pas suite, ou si votre méthode, votre ton, votre écriture ne convient pas à votre équipe de travail, nous nous efforçons aussi de faire en sorte que cela débouche sur une mise au point et des actions de correction. Hé oui, même en matière de fonctionnement nous sommes convaincus de l’adage : « des faits, rien que des faits ».
+
+
+## Ça fait combien de temps que JS existe ? 
+
+JS est né le 17 Mars 2020 d’un message sur Facebook de Julien Cazeneve disant plus ou moins « Hé, venez, on va faire un groupe Facebook pour *débunker* les *fake news*!» , le 18 mars nous avions notre Discord, le 19 un site, le 20 une structure d’outil, le 21 une méthode de travail, le 22 nous étions une équipe …. Bref ce fut la spirale infernale.
+
+1 mois plus tard JS était une rédaction de *fact checking* comptant plus de 50 membres, dont une dizaine de journalistes professionnels spécialisés ayant produit déjà plus de 18 publications et répondu à 47 questions sous forme d’enquêtes plurimédias.
+
+
+## Je suis impressionné⸱e
+
+Pas de raison, tout ça c’est grâce à toi ! 
+

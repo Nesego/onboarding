@@ -1,0 +1,118 @@
+Bonjour, et tout d’abord merci de prendre le temps de partager un peu de temps avec nous. 
+Nous savons que vous avez un emploi du temps chargé et des disponibilités variables mais une envie d’aider [Journalistes Solidaires](http://journalistessolidaires.com) (JS). 
+
+Nous essayerons d’être bref et d’être concis afin que vous compreniez comment nous fonctionnons et quel peut être votre apport à notre activité.
+
+# Journalistes Solidaires - En bref 
+
+Journalistes Solidaires (JS) est une rédaction collaborative, ouverte et efficace de fact checking, réunissant journalistes, développeurs, experts et citoyens. L’aventure a vu le jour pendant la crise sanitaire du Covid-19.
+
+JS a développé une plateforme spécifique à ses besoins lui permettant d’obtenir une vue efficace et un suivi continu sur toutes les investigations en cours de réalisation. Des équipes de journalistes, coordonnés par d’autres membres du collectif, se concentrent sur un sujet via une discussion Telegram et notent leurs avancées et conclusions sur notre plateforme.
+
+La rédaction fonctionne par ailleurs en Open Newsroom, offrant la possibilité aux internautes de visualiser l'avancée de l'enquête et d'y participer à travers le formulaire présent sur la fiche de chaque sujet.
+
+
+## Les principaux outils 
+
+
+![Une fiche AirTable dans la table “Factchecks Internes”](https://paper-attachments.dropbox.com/s_DDCF8915682EB26F0FD0373239192C13D8C71357A73C2231753DD98EFDF26570_1587379288168_Capture+decran+2020-04-20+a+12.41.14.png)
+
+
+**AirTable**
+
+**La quasi totalité des processus de production d’une enquête et d’un article passe par AirTable**. Chaque groupe de travail crée une fiche Factcheck dans Airtable qui permet de renseigner et consigner tous les éléments importants de l'enquête et de noter l'avancement.
+
+
+**Telegram** 
+
+C’est une application de messagerie chiffrée instantanée que vous pouvez installer sur vos téléphones et vos ordinateurs. C’est sur cette application que se passe votre travail journalistique au sein d’un groupe de travail. **C'est dans ces groupes que les mentors vont principalement intervenir.**
+
+  
+**Discord** 
+
+**Le QG de JS et le cœur de la rédaction**. C'est là que s'organisent le travail, les conférences de rédactions, les échanges de contacts, les requêtes aux techniciens et… les blagues. Les mentors n'y ont pas accès pour ne pas alourdir leur implication.
+
+
+## Les équipes 
+
+Une “équipe” sous Telegram en charge de débunker l’information. Cette force est composée comme suit : 
+
+
+**Deux journalistes** 
+Le rôle des journalistes est de débunker l’information. Pour se faire, ils suivent une méthodologie que nous avons mise en place inspirée de celle de l’AFP Fact Check et de l’International Fact Check Network. Ils remplissent les fiches au fur et à mesure de leur enquête. 
+
+
+**Un coordinateur** 
+Son rôle n’est pas journalistique. Il est là pour aider les journalistes à rester concentrés et à ne pas partir dans tout les sens en rabâchant l’angle de l’article tout au long de l’enquête. C’est lui qui met aussi à la disposition les outils et contacts, en relation avec la technique et la responsable de rédaction, dont ils auraient besoin si ils n’y arrivent pas par eux même. 
+
+
+**Et vous !  😉**  ****
+Il arrive que nos journalistes soient bloqués sur un sujet parce qu’ils n’arrivent pas à relier des points entre eux, ne trouvent pas un angle pertinent ou n’arrivent pas à joindre les acteurs de leur enquête. Il peux aussi arriver qu’ils ne soient pas sûr d’une information et n’arrivent pas à la vérifier par eux même de par sa complexité ou de part sa nature. Enfin, il est possible qu’à la fin de leur enquête ils souhaitent faire relire par un professionnel leurs conclusions. 
+
+
+# La communication entre vous et la rédaction JS 
+
+
+## JS a besoin de vous… 
+
+Si l’un d’entre vous est pointé comme soutien possible dans une enquête, il demandera à son coordinateur de vous contacter. Ce dernier informera le rédacteur en chef et le responsable des partenariats. Ils vous contacteront par le moyen de communication que vous avez sélectionné afin de voir si vous êtes disponible et si vous pouvez apporter l’aide demandée. 
+
+Cette demande n’est en aucun cas une obligation pour vous, il s’agit d’une demande. Aussi ni nos coordinateurs, ni nos équipes ne vous en voudront si vous êtes trop occupés pour y répondre. Nous vous demandons juste dans ce cas de nous en informer afin de ne pas les laisser attendre trop longtemps. 
+
+
+## Vous souhaitez rejoindre une enquête…
+
+
+![La vue “En cours de vérification” des mentors](https://paper-attachments.dropbox.com/s_3DF8B78B80B1C8A2418F17DEAECFCBF7495C16F8FFF588BBA379ACA76129801D_1587799290156_image.png)
+
+
+A tout moment, si vous souhaitez vous impliquer en tant que mentor dans une enquête, libre à vous de rejoindre le groupe Telegram - *le lien sous la forme t.me/ est indiqué dans la fiche* -  de la task force et de voir ce qui s’y passe en l’indiquant également à la rédaction en chef et au responsable des partenariats. 
+
+Vous avez en outre la possibilité de filtrer la base en tapant des mots-clés dans le champ “recherche”.  En recherchant votre nom, vous pourrez également retrouver toutes les enquêtes dans lesquelles vous intervenez.
+
+Dans AirTable, vous trouverez également une table Mentor qui contient vos informations. Nos journalistes ne sont pas autorisé à vous contacter directement concernant leurs enquêtes mais ils peuvent utiliser cette base pour chercher de l’aide. 
+
+
+# Qu'est-ce que le mentorat JS ?
+
+Vous l’aurez compris : JS fonctionne sur un système de partage où tout le monde y gagne quelque chose. Expérience, contacts, connaissances, nous essayons d’enrichir chacun de nos membres. 
+
+**Expérience** : l'expérience du journalisme de nos membres est variable. Votre rôle comme mentionné plus haut, n'est pas de participer à l'enquête mais de l'accompagner. Préciser et resserrer un angle, éviter que l'équipe se perdent dans les écueils d'un détail, rebondir lorsque qu'un contact essentiel ne répond pas…
+
+**Contacts :** en tant que professionnel expérimenté, vous avez constitué un carnet d’adresses épais. Les journalistes de l'enquête peuvent faire appel à vous pour obtenir un contact précis 
+
+**Connaissances** : votre pratique du métier de journaliste et d’enquête est éprouvée et permettra aux jeunes journalistes de monter en compétences sur cette rigueur de travail. 
+
+Nous avons pris en considération vos contraintes et mis en place un système qui vous permet de participer à notre activité à votre rythme et dans la mesure de vos possibilités. 
+
+
+# Réutilisation de contenus d’enquêtes JS 
+
+ 
+En échange du temps que vous consacrerez à nos enquêtes, nous mettons à votre disposition le travail de nos journalistes. Vous êtes libres de piocher dans notre base de données à laquelle vous aurez accès si un sujet vous intéresse, et de travailler en collaboration avec notre équipe pour nourrir votre travail. 
+
+Nous vous demanderons en échange de créditer, le(s) journaliste(s) avec lesquels vous avez travaillé ainsi que Journalistes Solidaires. 
+
+Si vous souhaitez réutiliser un contenu pour une pige avec un autre média, nous vous invitons à discuter avec JS d'une rémunération équitable à hauteur de notre participation à l'enquête.
+
+Étant donné l’accès que nous vous donnons nous espérons que vous comprenez que Journalistes Solidaires n’est pas une source libre à laquelle vous avez accès et qu’il serait regrettable de voir le travail d’une équipe bénévole publié sur un autre média sans leur accord…  
+
+# Concrètement !
+
+
+| 1 | Assurez-vous d'**avoir installer Telegram** sur vos téléphones et/ou vos ordinateurs. <br><br><br>    > 📲 Installation<br>    > <br>    > Un compte Telegram a besoin pour fonctionner d’un **numéro de téléphone**. Vous pouvez donc commencer par l’installation de l’appli mobile ([Android](https://play.google.com/store/apps/details?id=org.telegram.messenger), [iPhone](https://apps.apple.com/app/telegram-messenger/id686449807), [Windows Phone](https://www.microsoft.com/fr-fr/p/telegram-messenger/9wzdncrdzhs0?rtc=1)), puis dans un second temps installer la version desktop ([Mac](https://telegram.org/dl/desktop/mac), [PC](https://telegram.org/dl/desktop/win), [Linux](https://telegram.org/dl/desktop/linux)) pour vous simplifier les échanges par clavier plutôt que du bout du pouce ! |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2 | **Inscrivez-vous à AirTable via le formulaire mentor** pour avoir accès à la base [en cliquant ici](https://airtable.com/shrJBVrquCmKiCJY8)<br><br>Nous vous demandons de compléter le formulaire d'inscription le plus précisément possible. Les informations recueillies dans ce formulaire seront directement injectées dans notre base de données où les journalistes peuvent vous retrouver. <br><br>Parce qu'on ne se répète jamais assez, vous trouverez, après l'inscription validée, la vue sur les enquêtes en cours                                                                                                                                                                                                                                                                                     |
+| 3 | **On est tout bon !** En fonction de votre intérêt pour des enquêtes, nous déciderons ensemble de vous intégrer aux groupes de verificateurs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+# Et c’est tout !
+
+Nous vous avions promis de faire bref, nous espérons que ce fut le cas. 
+
+Nous vous proposons si vous le souhaitez de lire nos autres documents tels que notre Onboarding journaliste ou notre méthodologie de fact checking si vous souhaitez en savoir plus sur notre fonctionnement. 
+
+
+# Pour toute question
+
+Notre rédactrice en chef (redaction@journalistessolidaires.com) et notre responsable des partenariats (communication@journalistessolidaires.com) sont à votre disposition si vous la moindre question.  
+
