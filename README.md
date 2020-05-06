@@ -101,7 +101,7 @@ Si vous souhaitez rejoindre l'aventure JS en tant que :
 
 - [**1. Journaliste fact checker**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/1.%20Journalistes.md) 
 - [**2. SR et correction**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/2.%20SR%20et%20correction.md)
-- [**3. Coordinateur**](https://perdu.com)
+- [**3. Journaliste multimedia**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/3.%20Multimedia%20%26%20video.md)
 - [**4. Mentor**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/4.%20Mentors.md)
 
 Si vous souhaitez découvrir les outils avec lesquels nous travaillons quotidiennenemnt, rendez-vous dans dans le fichier [**Les outils JS**](https://github.com/Journalistes-Solidaires/onboarding/blob/master/5.%20Les%20outils%20JS.md)
