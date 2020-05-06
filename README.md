@@ -50,7 +50,7 @@ Imaginez un classeur de cartes postales. Chaque publication douteuse est une car
 Airtable est une **base de données** éditable en ligne. Le service est composé de **tables** qui contiennent des **enregistrements**. Nous appelons ces enregistrement des « **fiches** ». À l’intérieur de ces fiches ce trouvent des **champs** qui vont contenir vos informations. 
 
 
-Il existe plusieurs **mode****s** **de vue** pour chaque table, qui peuvent contenir plus ou moins de champ affichés en fonction de l’utilité de la vue. Ainsi, une même table peut être vue en mode tableau, en mode calendrier ou encore en mode Kanban selon vos préférences et/ou ce que vous souhaitez faire au moment où vous la consultez. 
+Il existe plusieurs **modes de vue** pour chaque table, qui peuvent contenir plus ou moins de champ affichés en fonction de l’utilité de la vue. Ainsi, une même table peut être vue en mode tableau, en mode calendrier ou encore en mode Kanban selon vos préférences et/ou ce que vous souhaitez faire au moment où vous la consultez. 
 
 
 AirTable est l’outil de concentration et de centralisation de nos informations, toutes nos informations : aussi bien des contacts que nous établissons et des enquêtes que nous menons, ou des formats que nous produisons. C’est également la source de tout ce qui est affiché sur notre site internet.
